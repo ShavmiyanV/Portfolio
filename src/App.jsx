@@ -1,7 +1,10 @@
-export default function App() {
-  return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  )
+import "./App.css";
+import NavbarMain from "./components/navbar/NavbarMain";
+
+function App() {
+  return <main className="font-body">
+      <NavbarMain/>
+  </main>
 }
+
+export default App;
