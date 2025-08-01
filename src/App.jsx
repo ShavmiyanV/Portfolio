@@ -9,6 +9,7 @@ import SkillsMain from "./components/skillsSection/SkillsMain";
 import SubSkills from "./components/skillsSection/SubSkills";
 import ProjectsMain from "./components/projectsSection/ProjectsMain";
 import ContactMeMain from "./components/contactMeSection/contactMeMain";
+import FooterMain from "./components/footer/FooterMain";
 
 function App() {
   return <main className="font-body">
@@ -22,6 +23,7 @@ function App() {
       <ExperienceMain/>
       <ProjectsMain/>
       <ContactMeMain/>
+      <FooterMain/>
       <HelperSection/>
       
   </main>
