@@ -8,6 +8,7 @@ import NavbarMain from "./components/navbar/NavbarMain";
 import SkillsMain from "./components/skillsSection/SkillsMain";
 import SubSkills from "./components/skillsSection/SubSkills";
 import ProjectsMain from "./components/projectsSection/ProjectsMain";
+import ContactMeMain from "./components/contactMeSection/contactMeMain";
 
 function App() {
   return <main className="font-body">
@@ -20,6 +21,7 @@ function App() {
       <SubSkills/>
       <ExperienceMain/>
       <ProjectsMain/>
+      <ContactMeMain/>
       <HelperSection/>
       
   </main>
