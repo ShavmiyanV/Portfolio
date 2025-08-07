@@ -6,11 +6,11 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
-    name: "Vacation of Africa",
-    year: "Mar2022",
+    name: "Urban Move",
+    year: "July2025",
     align: "right",
     image: "/Portfolio/images/website-img-1.jpg",
-    link: "#",
+    link: "https://github.com/Lakshan1806/Urban-Move-v1.0.git",
   },
   {
     name: "Moola App",
