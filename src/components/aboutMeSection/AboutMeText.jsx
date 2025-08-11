@@ -15,7 +15,6 @@ const AboutMeText = () => {
         learn, take on new challenges, and grow as a developer while
         contributing meaningfully to real-world projects.
       </p>
-      <button className="border border-orange rounded-full py-2 px-4 test-lg flex items-center mt-10 hover:bg-orange transition-all duration-500 cursor-pointer md:self-start sm:self-center text-white hover:text-cyan">My Projects</button>
     </div>
   );
 };

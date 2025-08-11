@@ -6,13 +6,19 @@ const ExperienceTopRight = () => {
       <p className="text-lg text-center text-lightGrey">
         I specialize in{" "}
         <span className="font-bold text-white">
-          React and modern Javascript
+          MERN stack development and modern JavaScript
         </span>
-        , leveraging best practice to create scalable and maintainable
-        solutions. My experience spans working on diverse projects, from small
-        business websites to{" "}
-        <span className="font-bold text-white">complex front-end systems</span>,
-        always aiming for clean code and exceptional user experiences.
+        , crafting efficient, scalable, and user-friendly applications. My
+        expertise covers{" "}
+        <span className="font-bold text-white">
+          UI/UX design and full-stack solutions
+        </span>
+        , with experience in building platforms from{" "}
+        <span className="font-bold text-white">
+          ride-booking systems to e-commerce websites
+        </span>
+        . I focus on clean code, best practices, and delivering exceptional
+        digital experiences.
       </p>
     </div>
   );
